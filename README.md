@@ -1,8 +1,8 @@
-## Hi, i'm Mauricio Tovar
+## Hola, soy Mauricio Tovar
 
-<h3 align="">🚀 I love solving problems through code and learning new technologies.</h3>
+<h3 align="">🚀 Me gusta resolver problemas en codigo y aprender nuevas tecnologias.</h3>
 
-- ACTUALMENTE TRABAJO EN  [Sistema de gestion de envíos](URL-DEL-PROYECTO)
+- ACTUALMENTE DESARROLLo UN  [Sistema de gestion de envíos](URL-DEL-PROYECTO)
 
 - ESTOY ESTUDIANDO **Spring Boot, java**
 
