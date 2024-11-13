@@ -4,16 +4,17 @@
 
 - ACTUALMENTE DESARROLLO UN   [Sistema de gestion de envíos](URL-DEL-PROYECTO)
 
-    -Apollado de algunos conceptos:
+    -Apoyado de algunos conceptos:
+
     -Tres capas: app-domain-infra
 
-    -ALgunas practicas SOLID
+    -Practicas SOLID
 
     -Combinacion de algunos conceptos DDD y Hexagonal -> (Hexa3)
 
     -Test: Unitarios e integracion.
 
-    Un servicio de autenticacion con spring security (Login-register-JWT)
+    -Un servicio de autenticacion con spring security (Login-register-JWT)
 
 - ESTOY ESTUDIANDO **Spring Boot, java**
 
