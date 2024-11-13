@@ -10,7 +10,7 @@
 
         -Practicas SOLID
 
-        -Combinacion de algunos conceptos DDD y Hexagonal -> (Hexa3)
+        -Combinacion de conceptos DDD y Hexagonal -> (Hexa3)
 
         -Test: Unitarios e integracion.
 
