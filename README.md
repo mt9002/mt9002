@@ -6,15 +6,15 @@
 
     - Apoyado de algunos conceptos:
 
-    -Tres capas: app-domain-infra
+        -Tres capas: app-domain-infra
 
-    -Practicas SOLID
+        -Practicas SOLID
 
-    -Combinacion de algunos conceptos DDD y Hexagonal -> (Hexa3)
+        -Combinacion de algunos conceptos DDD y Hexagonal -> (Hexa3)
 
-    -Test: Unitarios e integracion.
+        -Test: Unitarios e integracion.
 
-    -Un servicio de autenticacion con spring security (Login-register-JWT)
+        -Un servicio de autenticacion con spring security (Login-register-JWT)
 
 - ESTOY ESTUDIANDO **Spring Boot, java**
 
