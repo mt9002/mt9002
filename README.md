@@ -4,7 +4,7 @@
 
 - ACTUALMENTE DESARROLLO UN   [Sistema de gestion de envíos](URL-DEL-PROYECTO)
 
-    -Apoyado de algunos conceptos:
+    - Apoyado de algunos conceptos:
 
     -Tres capas: app-domain-infra
 
