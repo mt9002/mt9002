@@ -3,7 +3,16 @@
 <h3 align="">🚀 Me gusta resolver problemas en codigo y aprender nuevas tecnologias.</h3>
 
 - ACTUALMENTE DESARROLLO UN   [Sistema de gestion de envíos](URL-DEL-PROYECTO)
+Apollado de algunos conceptos:
+-Tres capas: app-domain-infra
 
+-ALgunas practicas SOLID
+
+-Combinacion de algunos conceptos DDD y Hexagonal -> (Hexa3)
+
+-Test: Unitarios e integracion.
+
+Un servicio de autenticacion con spring security (Login-register-JWT)
 - ESTOY ESTUDIANDO **Spring Boot, java**
 
 - PUEDES CONTACTARME EN <a href="mailto:mauricio.tovar.gil@gmail.com">mauricio.tovar.gil@gmail.com</a>
