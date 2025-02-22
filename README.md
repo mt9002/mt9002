@@ -2,7 +2,7 @@
 
 <h3 align="">🚀 Me gusta resolver problemas en codigo y aprender nuevas tecnologias.</h3>
 
-- ACTUALMENTE DESARROLLO UN   [Sistema de gestion de envíos](URL-DEL-PROYECTO)
+- ACTUALMENTE DESARROLLO UN   [Sistema de gestion de cuantas personales](https://github.com/mt9002/easyPayment/tree/dev1)
 
     - Apoyado de algunos conceptos:
 
