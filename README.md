@@ -1,6 +1,6 @@
-## Hola, soy Mauricio Tovar
+## Hello
 
-- Habilidades de desarrollo backend:  [kata Bank:  ](https://github.com/mt9002/kata_bank)
+- Api:  [kata Bank:  ](https://github.com/mt9002/kata_bank)
 
     - Contiene:
         - Layered Architecture + DDD-lite + clean + SOLID
@@ -23,7 +23,6 @@
 <a href="https://devicon.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40"/></a> 
 <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/></a> 
 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 <br>
