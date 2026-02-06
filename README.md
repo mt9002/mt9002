@@ -1,24 +1,17 @@
 ## Hola, soy Mauricio Tovar
 
-<h3 align="">🚀 Me gusta resolver problemas en codigo y aprender nuevas tecnologias.</h3>
+- Habilidades de desarrollo backend  [kata Bank ](https://github.com/mt9002/kata_bank)
 
-- ACTUALMENTE DESARROLLO UN   [Sistema de gestion de cuantas personales](https://github.com/mt9002/easyPayment/tree/dev1)
+    - Contiene:
+        - Layered Architecture + DDD-lite + clean + SOLID
+        - Test: Unit and Integration.
+        - ApiRest
+        - Spring boot (mvn)
+        - Hateoas
+        - Reportes + Cobertura de test.
+        - Recurso, https://www.codurance.com/es/katas/bank-kata
 
-    - Apoyado de algunos conceptos:
-
-        -Tres capas: app-domain-infra
-
-        -Practicas SOLID
-
-        -Combinacion de conceptos DDD y Hexagonal -> (Hexa3)
-
-        -Test: Unitarios e integracion.
-
-        -Un servicio de autenticacion con spring security (Login-register-JWT)
-
-- ESTOY ESTUDIANDO **Spring Boot, java**
-
-- PUEDES CONTACTARME EN <a href="mailto:mauricio.tovar.gil@gmail.com">mauricio.tovar.gil@gmail.com</a>
+- Contacto:  <a href="mailto:mauricio.tovar.gil@gmail.com">mauricio.tovar.gil@gmail.com</a>
 
 
 ## Languages and Tools:
