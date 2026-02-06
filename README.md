@@ -1,4 +1,8 @@
-##   Welcome
+##   Hello Welcome
+
+- Systems Analysis and Development Technologist.
+- Bachelor’s degree in Mathematics.
+- Passionate about learning and applying new technologies.
 
 ### Kata Bank API
 
