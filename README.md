@@ -1,6 +1,6 @@
 ## Hola, soy Mauricio Tovar
 
-- Habilidades de desarrollo backend Repository [kata Bank:  ](https://github.com/mt9002/kata_bank)
+- Habilidades de desarrollo backend:  [kata Bank:  ](https://github.com/mt9002/kata_bank)
 
     - Contiene:
         - Layered Architecture + DDD-lite + clean + SOLID
