@@ -1,18 +1,24 @@
-## Hello
+##   Welcome
 
-- Api:  [kata Bank:  ](https://github.com/mt9002/kata_bank)
+### Kata Bank API
 
-    - Contiene:
-        - Layered Architecture + DDD-lite + clean + SOLID
-        - Test: Unit and Integration.
-        - ApiRest
-        - Spring boot (mvn)
-        - Hateoas
-        - Reportes + Cobertura de test.
-        - Recurso, https://www.codurance.com/es/katas/bank-kata
+- Repository: [kata_bank](https://github.com/mt9002/kata_bank)
+  
+### Content
+- Layered Architecture (DDD-lite, Clean Architecture, SOLID)
+- REST API
+- Spring Boot (Maven)
+- HATEOAS (HAL)
+- Testing:
+  - Unit tests
+  - Integration tests
+- Test reports and coverage
+- Kata reference:  
+  https://www.codurance.com/es/katas/bank-kata
 
-- Contacto:  <a href="mailto:mauricio.tovar.gil@gmail.com">mauricio.tovar.gil@gmail.com</a>
-
+### Contact
+- Email: <a href="mailto:mauricio.tovar.gil@gmail.com">mauricio.tovar.gil@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/mtovargil/">linkedin.com/in/mtovargil</a>
 
 ## Languages and Tools:
 <p align="left">
